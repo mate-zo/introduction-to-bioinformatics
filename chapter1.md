@@ -788,7 +788,8 @@ Each entry in a database has a unique **accession number**.
 This number is permanent and provides an unambiguous way to link to the entry.
 The information that the accession refers to should not change.
 To still allow updates to an entry, the accession number can contain a **version**, usually after a dot.
-For example, NC_003070.9 is the latest version (version 9) for _Arabidopsis thaliana_ chromosome 1 in RefSeq.
+For example, NC_003070.9 is the latest version (version 9) for _Arabidopsis thaliana_ chromosome 1 and NC_000001.11 (version 11) for _Homo sapiens_ chromosome 1
+ in RefSeq.
 
 Database entries often link to each other via **cross links**.
 
